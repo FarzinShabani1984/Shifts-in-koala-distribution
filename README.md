@@ -1,5 +1,7 @@
 Climate‐driven shifts in the distribution of koala browse species. doi: [10.1111/ecog.04530].
+
 Input Layer Preparation:
+
 
 setwd('C:/Users/....')
 
