@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20180331</CreaDate><CreaTime>19375900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20180331" Time="193759">ExtractByMask lig_30s_bio_4.bil bio_1.tif C:\Users\shab0021\Dropbox\FLINDERS_Project\Koala\layers\Climatic\Input_variables\Past\lig_30s_bio\AUS\bio4.tif</Process></lineage></DataProperties></Esri></metadata>
